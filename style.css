@@ -1,0 +1,10 @@
+.hero {
+    background: linear-gradient(135deg, #094f44, #10302E);
+    min-height: 55vh;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 800px;
+}
