@@ -6,5 +6,7 @@
 }
 
 img {
-    width: 800px;
+    max-width: 100%; /* Nunca ultrapassa o tamanho da tela */
+    width: auto; /*Mantém a proporção */
+    max-height: 400px; /* Opcional: limita a altura se quiser */
 }
